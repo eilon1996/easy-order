@@ -7,6 +7,6 @@ this github repasetory contain anly the code.
 for the full program with an .exe file to easily run the program and an exaple orders,
 you can download from this drive conaction
 
-https://www82.zippyshare.com/v/RokYCbZc/file.html
+https://www7.zippyshare.com/v/DLusMrGg/file.html
 
 the folder is contain more detailed instractions how to oparate it.
