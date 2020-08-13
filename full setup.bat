@@ -1,3 +1,5 @@
+echo python-3.8.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+
 echo installing easy order...
 
 cd \
