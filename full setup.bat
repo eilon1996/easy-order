@@ -8,7 +8,7 @@ cd desktop
 mkdir easy order
 cd easy order
 
-https://aka.ms/nugetclidl
+start https://aka.ms/nugetclidl
 nuget.exe install python -Version 3.7.7
 
 
