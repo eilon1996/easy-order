@@ -12,5 +12,5 @@ https://drive.google.com/file/d/1azrRwYorGEqPgwP0zte9UyZ4buhg4Qkr/view?usp=shari
 the folder contain more detailed instractions on how to oparate it.
 
 
-or use this command line (for windows) 
+or use this command line (for windows)
 pyinstaller --hidden-import=xlsxwriter --hidden-import=xlrd -F easy_order.py
